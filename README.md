@@ -28,22 +28,18 @@ This project simulates a real-world cybersecurity tool designed to identify phis
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-
-![Homepage](images/homepage.png)
+![Homepage](homepage.png)
 
 ---
 
 ### 🔴 High Risk Detection
-
-![High Risk Top](images/high-risk-top.png)
-![High Risk Bottom](images/high-risk-bottom.png)
+![High Risk Top](high-risk-top.png)  
+![High Risk Bottom](high-risk-bottom.png)
 
 ---
 
 ### 🟡 Sample Result
-
-![Sample Result](images/sample-result.png)
-
+![Sample Result](sample-result.png)
 ---
 
 ## 🛠️ Tech Stack
